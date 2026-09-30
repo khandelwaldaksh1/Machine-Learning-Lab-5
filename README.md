@@ -13,10 +13,10 @@
 
 | Details | Information |
 |---|---|
-| **Name** | Gaurav Patel |
-| **Roll No.** | 27 |
-| **Section** | A |
-| **Batch** | A2 |
+| **Name** | Daksh khandelwal |
+| **Roll No.** | 45 |
+| **Section** | B |
+| **Batch** | B3 |
 | **Branch** | Artificial Intelligence & Machine Learning |
 | **Lab** | Machine Learning |
 | **Practical No.** | 5 |
